@@ -27,5 +27,5 @@ After fine-tuning, the model achieved a leaderboard score of 0.64.
 The notebook files for training and inferencing can be found in the "Gemma-7b-it Training and Inferencing Notebook[0.64]" folder. Additionally, the adapter configuration for the trained model is saved in the "adapter files" folder.
 
 ## Leaderboard Performance
-We secured the 143rd place among other teams in the contest.
+We secured the 136th place among other teams in the contest.
 
